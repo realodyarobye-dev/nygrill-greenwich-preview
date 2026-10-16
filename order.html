@@ -12,7 +12,7 @@
 <meta name="theme-color" content="#1B120D">
 <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/zodiak.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="assets/site.css?v=1792183107"><link rel="stylesheet" href="assets/order.css?v=1792183107">
+<link rel="stylesheet" href="assets/site.css?v=1792184299"><link rel="stylesheet" href="assets/order.css?v=1792184299">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Restaurant", "name": "NY Grill & Deli", "foundingDate": "2005", "address": {"@type": "PostalAddress", "streetAddress": "79 Greenwich Ave", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10014", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 40.7368685, "longitude": -74.0015739}, "telephone": "+12122560526", "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "00:00", "closes": "23:59"}], "servesCuisine": ["Deli", "American", "Breakfast", "Sandwiches", "Halal"], "hasMap": "https://www.google.com/maps/search/?api=1&query=NY+Grill+%26+Deli%2C+79+Greenwich+Ave%2C+New+York%2C+NY+10014"}</script>
 </head>
 <body class="p-order">
@@ -134,6 +134,29 @@
 <div class="scrim" data-close-cart></div>
 <button type="button" class="mbar" data-open-cart hidden><span data-mbar-count>0 items</span><b>View cart</b><span data-mbar-total>$0.00</span></button>
 <div class="toast" role="status" aria-live="polite" data-toast></div>
+<div class="sheet-wrap" data-sheet hidden>
+  <div class="sheet-scrim" data-sheet-close></div>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-h" tabindex="-1">
+    <button type="button" class="sheet-x" data-sheet-close aria-label="Close">×</button>
+    <div class="sheet-scroll">
+      <div class="sheet-photo" data-sheet-photo></div>
+      <div class="sheet-head">
+        <h2 id="sheet-h" data-sheet-name></h2>
+        <p class="sheet-price" data-sheet-price></p>
+        <p class="sheet-desc" data-sheet-desc></p>
+      </div>
+      <div data-sheet-groups></div>
+      <div class="sheet-notes">
+        <label for="sheet-notes">Special instructions</label>
+        <textarea id="sheet-notes" rows="3" maxlength="200" placeholder="Allergies, extra napkins, light on the sauce"></textarea>
+      </div>
+    </div>
+    <div class="sheet-foot">
+      <span class="qty sheet-qty"><button type="button" data-sq="-1" aria-label="Decrease quantity">−</button><output data-sheet-q aria-live="polite">1</output><button type="button" data-sq="1" aria-label="Increase quantity">+</button></span>
+      <button type="button" class="btn btn-brass sheet-add" data-sheet-add>Add to order · $0.00</button>
+    </div>
+  </div>
+</div>
 
 </main>
 <footer class="foot">
@@ -207,6 +230,6 @@
   <p class="foot-legal">© <span data-year>2026</span> NY Grill &amp; Deli · Est. 2005 · 79 Greenwich Ave, New York, NY 10014</p>
 </footer>
 
-<script src="assets/menu.js?v=1792183107" defer></script><script src="assets/order.js?v=1792183107" defer></script><script src="assets/site.js?v=1792183107" defer></script>
+<script src="assets/menu.js?v=1792184299" defer></script><script src="assets/order.js?v=1792184299" defer></script><script src="assets/site.js?v=1792184299" defer></script>
 </body>
 </html>
