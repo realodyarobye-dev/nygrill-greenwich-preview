@@ -1,0 +1,1112 @@
+[
+ {
+  "slug": "breakfast",
+  "title": "Breakfast and Pancakes",
+  "items": [
+   {
+    "id": "breakfast-2-eggs-sandwich",
+    "name": "2 Eggs Sandwich",
+    "desc": "Freshly made sandwich with 2 eggs.",
+    "price": 595,
+    "img": null
+   },
+   {
+    "id": "breakfast-blt-breakfast",
+    "name": "BLT Breakfast",
+    "desc": "Smoky crispy bacon, crisp lettuce and ripe tomato with creamy mayo on toasted bread, a timeless classic",
+    "price": 795,
+    "img": "assets/img/menu/blt-breakfast.webp"
+   },
+   {
+    "id": "breakfast-breakfast-quesadilla",
+    "name": "Breakfast Quesadilla",
+    "desc": "Fluffy scrambled eggs folded into a griddled tortilla with melted mozzarella, pepper jack and Vermont cheddar, finished with a kick of jalape\u00f1os",
+    "price": 795,
+    "img": "assets/img/menu/breakfast-quesadilla.webp"
+   },
+   {
+    "id": "breakfast-grilled-cheese",
+    "name": "Grilled Cheese",
+    "desc": "Thick golden bread grilled in butter until perfectly crispy with gooey melted cheese oozing from every edge",
+    "price": 595,
+    "img": null
+   },
+   {
+    "id": "breakfast-2-eggs-platter",
+    "name": "2 Eggs Platter",
+    "desc": "Two eggs cooked exactly your way, simple, fresh and satisfying",
+    "price": 595,
+    "img": null
+   },
+   {
+    "id": "breakfast-mcgriddle-sandwich",
+    "name": "Mcgriddle Sandwich",
+    "desc": "Savory sausage, fluffy egg and melted cheese stacked between two golden pancakes, sweet meets savory in every bite",
+    "price": 995,
+    "img": "assets/img/menu/mcgriddle-sandwich.webp"
+   },
+   {
+    "id": "breakfast-full-house-breakfast-sandwich",
+    "name": "Full House Breakfast Sandwich",
+    "desc": "Melted American cheese, smoky bacon, fresh tomato and a perfectly cooked egg on toasted bread, everything you need to start the day",
+    "price": 795,
+    "img": "assets/img/menu/full-house-breakfast-sandwich.webp"
+   },
+   {
+    "id": "breakfast-steak-eggs-and-cheese-hero",
+    "name": "Steak, Eggs, and Cheese Hero",
+    "desc": "Tender seasoned steak with fluffy scrambled eggs, melted cheese and sauteed peppers and onions on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/steak-eggs-and-cheese-hero.webp"
+   },
+   {
+    "id": "breakfast-the-stack-sandwich",
+    "name": "The Stack Sandwich",
+    "desc": "Crispy bacon, fluffy eggs, melted cheese and two gooey mozzarella sticks stacked high on toasted bread, indulgent and unstoppable",
+    "price": 895,
+    "img": "assets/img/menu/the-stack-sandwich.webp"
+   },
+   {
+    "id": "breakfast-turkey-bacon-blt-breakfast",
+    "name": "Turkey Bacon BLT Breakfast",
+    "desc": "Smoky lean turkey bacon, crisp lettuce and ripe tomato with creamy mayo on toasted bread, a timeless classic",
+    "price": 795,
+    "img": "assets/img/menu/turkey-bacon-blt-breakfast.webp"
+   },
+   {
+    "id": "breakfast-eggs-corned-beef-hash-home-fries",
+    "name": "Eggs Corned Beef Hash & Home Fries",
+    "desc": "Tender Boar's Head corned beef hash with fluffy scrambled eggs, a hearty deli classic",
+    "price": 995,
+    "img": "assets/img/menu/eggs-corned-beef-hash-home-fries.webp"
+   },
+   {
+    "id": "breakfast-breakfast-burger",
+    "name": "Breakfast Burger",
+    "desc": "Juicy beef patty topped with a golden fried egg, melted cheese and a crispy hash brown patty, breakfast and lunch in one",
+    "price": 995,
+    "img": "assets/img/menu/breakfast-burger.webp"
+   },
+   {
+    "id": "breakfast-pancakes-breakfast-specials-3-pcs",
+    "name": "Pancakes Breakfast Specials (3 pcs)",
+    "desc": "Fluffy pancakes stacked high, and topped with fresh ingredients of your choice.",
+    "price": 895,
+    "img": "assets/img/menu/pancakes-breakfast-specials-3-pcs.webp"
+   },
+   {
+    "id": "breakfast-french-toast-breakfast-specials",
+    "name": "French Toast Breakfast Specials",
+    "desc": "Thick golden slices of French toast, crispy on the outside and pillowy soft inside, served with butter and warm maple syrup",
+    "price": 895,
+    "img": "assets/img/menu/french-toast-breakfast-specials.webp"
+   },
+   {
+    "id": "breakfast-lumberjack-breakfast-special",
+    "name": "Lumberjack Breakfast Special",
+    "desc": "The ultimate breakfast combo, French toast, a fluffy pancake, crispy bacon and egg and cheese all on one plate.",
+    "price": 1395,
+    "img": "assets/img/menu/lumberjack-breakfast-special.webp"
+   },
+   {
+    "id": "breakfast-monte-cristo-breakfast",
+    "name": "Monte Cristo Breakfast",
+    "desc": "Premium ham and melted swiss cheese nestled between two golden French toast slices, sweet, savory and irresistible.",
+    "price": 795,
+    "img": "assets/img/menu/monte-cristo-breakfast.webp"
+   }
+  ]
+ },
+ {
+  "slug": "omelettes",
+  "title": "Omelettes",
+  "items": [
+   {
+    "id": "omelettes-vegetable-breakfast-omelette",
+    "name": "Vegetable Breakfast Omelette",
+    "desc": "Light fluffy egg omelette filled with fresh broccoli, earthy mushrooms, colorful peppers, fresh spinach, tomato and onion",
+    "price": 995,
+    "img": "assets/img/menu/vegetable-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-meat-lovers-breakfast-omelette",
+    "name": "Meat Lovers Breakfast Omelette",
+    "desc": "Fluffy egg omelette loaded with crispy bacon, savory sausage, premium ham and melted cheese, the ultimate breakfast",
+    "price": 995,
+    "img": "assets/img/menu/meat-lovers-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-greek-breakfast-omelette",
+    "name": "Greek Breakfast Omelette",
+    "desc": "Light fluffy egg omelette filled with tangy feta cheese, fresh spinach and ripe tomato",
+    "price": 995,
+    "img": "assets/img/menu/greek-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-western-breakfast-omelette",
+    "name": "Western Breakfast Omelette",
+    "desc": "Fluffy Western omelette filled with premium ham, colorful peppers and sweet sauteed onions",
+    "price": 995,
+    "img": "assets/img/menu/western-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-italian-breakfast-omelette",
+    "name": "Italian Breakfast Omelette",
+    "desc": "Fluffy egg omelette filled with savory sausage, earthy mushrooms, sweet roasted red peppers and melted mozzarella",
+    "price": 995,
+    "img": "assets/img/menu/italian-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-spanish-breakfast-omelette",
+    "name": "Spanish Breakfast Omelette",
+    "desc": "Fluffy egg omelette with colorful peppers, sweet onions and vibrant fresh salsa",
+    "price": 995,
+    "img": null
+   },
+   {
+    "id": "omelettes-kalefornia-breakfast-omelette",
+    "name": "Kalefornia Breakfast Omelette",
+    "desc": "Fresh egg white omelette with vibrant kale, creamy avocado, earthy mushrooms, ripe tomato and sweet onion",
+    "price": 995,
+    "img": "assets/img/menu/kalefornia-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-popeye-breakfast-omelette",
+    "name": "Popeye Breakfast Omelette",
+    "desc": "Boar's Head Ovengold Turkey, Mild Swiss, Egg Whites, Broccoli and Spinach. Add home fries and toast for an additional charge.",
+    "price": 995,
+    "img": null
+   },
+   {
+    "id": "omelettes-turbo-breakfast-omelette",
+    "name": "Turbo Breakfast Omelette",
+    "desc": "Clean egg white omelette packed with juicy grilled chicken, fresh spinach, ripe tomato, sweet onion and melted mozzarella",
+    "price": 995,
+    "img": "assets/img/menu/turbo-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-achilles-breakfast-omelette",
+    "name": "Achilles Breakfast Omelette",
+    "desc": "Light egg white omelette filled with tangy feta, vibrant kale, ripe tomato and sweet onion",
+    "price": 995,
+    "img": "assets/img/menu/achilles-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-egg-white-delight-breakfast-omelette",
+    "name": "Egg White Delight Breakfast Omelette",
+    "desc": "Delicate egg white omelette with premium turkey, fresh spinach, ripe tomato and melted swiss",
+    "price": 995,
+    "img": "assets/img/menu/egg-white-delight-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-superman-breakfast-omelette",
+    "name": "Superman Breakfast Omelette",
+    "desc": "Protein-packed egg white omelette with juicy grilled chicken, crispy bacon, colorful peppers, onions and melted cheddar",
+    "price": 995,
+    "img": "assets/img/menu/superman-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-hulk-breakfast-omelette",
+    "name": "Hulk Breakfast Omelette",
+    "desc": "Clean and powerful egg white omelette filled with juicy grilled chicken, fresh broccoli and vibrant spinach",
+    "price": 995,
+    "img": "assets/img/menu/hulk-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-iron-man-breakfast-omelette",
+    "name": "Iron Man Breakfast Omelette",
+    "desc": "Egg whites, turkey sausage, peppers, onions and Boar's Head Jalape\u00f1o Pepper Jack. Add home fries and toast for an additional charge.",
+    "price": 995,
+    "img": "assets/img/menu/iron-man-breakfast-omelette.webp"
+   },
+   {
+    "id": "omelettes-build-your-own-breakfast-omelette",
+    "name": "Build Your Own Breakfast Omelette",
+    "desc": "Choose your favorite fillings, ham, cheese, peppers, onions, spinach, mushrooms and more, folded into a fluffy fresh omelette made your way",
+    "price": 795,
+    "img": "assets/img/menu/build-your-own-breakfast-omelette.webp"
+   }
+  ]
+ },
+ {
+  "slug": "burritos",
+  "title": "Breakfast Burritos",
+  "items": [
+   {
+    "id": "burritos-bacon-breakfast-burrito",
+    "name": "Bacon Breakfast Burrito",
+    "desc": "Smoky crispy bacon, fluffy scrambled eggs, melted American cheese and golden home fries wrapped in a warm flour tortilla",
+    "price": 995,
+    "img": "assets/img/menu/bacon-breakfast-burrito.webp"
+   },
+   {
+    "id": "burritos-hungry-man-breakfast-burrito",
+    "name": "Hungry Man Breakfast Burrito",
+    "desc": "Loaded with savory sausage, crispy bacon, fluffy eggs, melted pepper jack, sliced jalapeno and golden home fries, for serious morning hunger",
+    "price": 1095,
+    "img": "assets/img/menu/hungry-man-breakfast-burrito.webp"
+   },
+   {
+    "id": "burritos-sausage-breakfast-burrito",
+    "name": "Sausage Breakfast Burrito",
+    "desc": "Savory breakfast sausage, fluffy scrambled eggs, melted American cheese and golden home fries in a warm flour tortilla",
+    "price": 995,
+    "img": "assets/img/menu/sausage-breakfast-burrito.webp"
+   },
+   {
+    "id": "burritos-ny-grill-burrito",
+    "name": "NY Grill Burrito",
+    "desc": "Fluffy scrambled eggs, smoky bacon, melted cheese and crispy hash browns in a warm flour tortilla, a New York morning staple",
+    "price": 895,
+    "img": null
+   },
+   {
+    "id": "burritos-healthy-burrito",
+    "name": "Healthy Burrito",
+    "desc": "Light fluffy egg whites, lean turkey bacon, creamy avocado and melted swiss cheese in a warm flour tortilla, clean and satisfying",
+    "price": 995,
+    "img": "assets/img/menu/healthy-burrito.webp"
+   },
+   {
+    "id": "burritos-ali-baba-burrito",
+    "name": "Ali Baba Burrito",
+    "desc": "A hearty spinach omelet layered with savory turkey bacon, crispy home fries, and melted Swiss cheese, all wrapped in a warm burrito.",
+    "price": 995,
+    "img": "assets/img/menu/ali-baba-burrito.webp"
+   }
+  ]
+ },
+ {
+  "slug": "hot-sandwiches",
+  "title": "Chopped Cheese and Hot Sandwiches",
+  "items": [
+   {
+    "id": "hot-sandwiches-chopped-cheese-sandwich",
+    "name": "Chopped Cheese Sandwich",
+    "desc": "Freshly chopped seasoned beef griddled to perfection with melted American cheese, sauteed peppers and onions, crisp lettuce, ripe tomato and creamy mayo on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/chopped-cheese-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-scooby-doo-sandwich",
+    "name": "Scooby Doo Sandwich",
+    "desc": "Golden crispy chicken cutlet with smoky bacon, melted pepper jack, crisp lettuce, fresh tomato and bold chipotle mayo on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/scooby-doo-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-pesto-chicken-sandwich",
+    "name": "Pesto Chicken Sandwich",
+    "desc": "Herb-marinated grilled chicken with intense sundried tomatoes, thick fresh mozzarella and sweet peppers on a toasted hero",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-derek-jeter-sandwich",
+    "name": "Derek Jeter Sandwich",
+    "desc": "Golden crispy chicken cutlet with smoky bacon, melted swiss, crisp lettuce, fresh tomato and sweet honey mustard, a true champion of sandwiches",
+    "price": 1195,
+    "img": "assets/img/menu/derek-jeter-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-reuben",
+    "name": "Reuben",
+    "desc": "Classic New York Reuben, thick-cut corned beef, melted swiss, tangy sauerkraut and creamy russian dressing on grilled seeded rye bread",
+    "price": 1195,
+    "img": "assets/img/menu/reuben.webp"
+   },
+   {
+    "id": "hot-sandwiches-greenwich-special-sandwich",
+    "name": "Greenwich Special Sandwich",
+    "desc": "Golden crispy chicken cutlet with melted pepper jack, creamy avocado, crisp lettuce, fresh tomato and bold chipotle mayo on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/greenwich-special-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-chicken-parmesan-sandwich",
+    "name": "Chicken Parmesan Sandwich",
+    "desc": "Crispy golden breaded chicken breast smothered in rich homemade marinara and topped with melted fresh mozzarella, served hot on a toasted Italian hero",
+    "price": 1195,
+    "img": "assets/img/menu/chicken-parmesan-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-the-tongue-twister",
+    "name": "The Tongue Twister",
+    "desc": "Fiery Sausalito turkey with melted pepper jack, sliced jalapenos, crisp lettuce, fresh tomato and bold chipotle mayo on a toasted garlic hero",
+    "price": 1195,
+    "img": "assets/img/menu/the-tongue-twister.webp"
+   },
+   {
+    "id": "hot-sandwiches-chicken-club",
+    "name": "Chicken Club",
+    "desc": "Golden crispy chicken cutlet stacked with smoky crispy bacon, melted American cheese, crisp lettuce, ripe tomato and creamy mayo on a toasted Italian hero",
+    "price": 1195,
+    "img": "assets/img/menu/chicken-club.webp"
+   },
+   {
+    "id": "hot-sandwiches-the-terminator-sandwich",
+    "name": "The Terminator Sandwich",
+    "desc": "Bold pepper turkey with melted pepper jack, crisp lettuce, fresh tomatoes and sweet honey mustard on a toasted hero, unstoppable flavor",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-ny-special-sandwich",
+    "name": "NY Special Sandwich",
+    "desc": "New York's finest, thick-cut pastrami and corned beef piled high with melted cheese, tangy sauerkraut and creamy russian dressing on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/ny-special-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-the-amazing-sandwich",
+    "name": "The Amazing Sandwich",
+    "desc": "Slow-roasted beef and peppery pastrami with melted mozzarella, sliced jalapenos, crisp lettuce, fresh tomato and bold chipotle mayo on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/the-amazing-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-ali-baba-sandwich",
+    "name": "Ali Baba Sandwich",
+    "desc": "Bold pepper turkey with melted swiss, vibrant hot and sweet peppers and smoky chipotle mayo on a toasted hero",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-turkey-chipotle",
+    "name": "Turkey Chipotle",
+    "desc": "Premium turkey with thick fresh mozzarella, creamy avocado, crisp lettuce, ripe tomato and smoky chipotle mayo on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/turkey-chipotle.webp"
+   },
+   {
+    "id": "hot-sandwiches-34th-special-sandwich",
+    "name": "34th Special Sandwich",
+    "desc": "Golden crispy chicken cutlet with thick fresh mozzarella, crisp lettuce, ripe tomato, sweet roasted red peppers and tangy balsamic vinaigrette on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/34th-special-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-batman-sandwich",
+    "name": "Batman Sandwich",
+    "desc": "Premium turkey and peppery pastrami with melted pepper jack and sweet honey mustard on a toasted hero, dark and delicious",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-turkey-club",
+    "name": "Turkey Club",
+    "desc": "Premium sliced turkey layered with smoky crispy bacon, melted American cheese, crisp lettuce, fresh tomato and creamy mayo on a toasted Italian hero",
+    "price": 1195,
+    "img": "assets/img/menu/turkey-club.webp"
+   },
+   {
+    "id": "hot-sandwiches-fat-boy",
+    "name": "Fat Boy",
+    "desc": "A legendary creation, golden chicken cutlet buried under crispy bacon, melted swiss, crispy onion rings, golden fries, crisp lettuce and fresh tomatoes on a hero",
+    "price": 1395,
+    "img": "assets/img/menu/fat-boy.webp"
+   },
+   {
+    "id": "hot-sandwiches-madonna-sandwich",
+    "name": "Madonna Sandwich",
+    "desc": "Bold pepper turkey and smoky turkey layered with melted swiss, vibrant hot and sweet peppers and chipotle mayo on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/madonna-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-lucky-empire-sandwich",
+    "name": "Lucky Empire Sandwich",
+    "desc": "Peppery pastrami with melted swiss, sweet sauteed onions, fresh tomato and tangy russian dressing on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/lucky-empire-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-the-craft-sandwich",
+    "name": "The Craft Sandwich",
+    "desc": "Crispy golden chicken cutlet, thick fresh mozzarella, creamy pesto sauce, fresh tomato & balsamic vinegar glaze served on bread of your choice",
+    "price": 1195,
+    "img": "assets/img/menu/the-craft-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-the-blazin-sandwich",
+    "name": "The Blazin Sandwich",
+    "desc": "Char grilled chicken tossed in fiery buffalo sauce topped with melted mozzarella and cool creamy blue cheese dressing on a toasted hero, for those who like it hot",
+    "price": 1195,
+    "img": "assets/img/menu/the-blazin-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-chicken-cordon-bleu-sandwich",
+    "name": "Chicken Cordon Bleu Sandwich",
+    "desc": "Golden crispy chicken cutlet stuffed with premium ham and melted swiss cheese, finished with sweet honey mustard on a toasted Italian hero",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-tuna-melt-sandwich",
+    "name": "Tuna Melt Sandwich",
+    "desc": "Creamy chunky tuna salad generously piled and topped with gooey melted cheese, served hot on a toasted hero",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-san-jose-sandwich",
+    "name": "San Jose Sandwich",
+    "desc": "Slow-roasted beef and premium turkey layered with melted swiss, crisp lettuce, fresh tomato and creamy mayo on a toasted hero",
+    "price": 1295,
+    "img": "assets/img/menu/san-jose-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-california-love-sandwich",
+    "name": "California Love Sandwich",
+    "desc": "Juicy grilled chicken with thick fresh mozzarella, creamy avocado, crisp lettuce, ripe tomatoes, sweet peppers and tangy balsamic vinaigrette on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/california-love-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-eggplant-parmesan-sandwich",
+    "name": "Eggplant Parmesan Sandwich",
+    "desc": "Tender roasted eggplant smothered in rich homemade marinara and topped with melted fresh mozzarella on a toasted Italian hero",
+    "price": 1195,
+    "img": "assets/img/menu/eggplant-parmesan-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-captain-american-sandwich",
+    "name": "Captain American Sandwich",
+    "desc": "Premium sliced turkey with soft melted brie, fresh mixed greens, ripe tomatoes and golden honey mustard on a toasted hero",
+    "price": 1095,
+    "img": "assets/img/menu/captain-american-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-despacito-sandwich",
+    "name": "Despacito Sandwich",
+    "desc": "Juicy grilled chicken with thick fresh mozzarella, crisp lettuce, ripe tomato and sweet golden honey mustard on a toasted hero",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-yankees-special",
+    "name": "Yankees Special",
+    "desc": "Juicy grilled chicken with melted provolone, crisp lettuce, ripe tomato and creamy mayo on a toasted Italian hero",
+    "price": 1195,
+    "img": "assets/img/menu/yankees-special.webp"
+   },
+   {
+    "id": "hot-sandwiches-sylvester-sandwich",
+    "name": "Sylvester Sandwich",
+    "desc": "Slow-roasted beef and peppery pastrami with melted mozzarella, crisp lettuce, fresh tomato and creamy mayo on a toasted Italian hero",
+    "price": 1195,
+    "img": "assets/img/menu/sylvester-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-honeymoon-sandwich",
+    "name": "Honeymoon Sandwich",
+    "desc": "Delicate honey-glazed turkey with melted muenster, sweet colorful peppers and golden honey mustard on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/honeymoon-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-angel-eyes-sandwich",
+    "name": "Angel Eyes Sandwich",
+    "desc": "Golden crispy chicken cutlet with thick fresh mozzarella, crisp lettuce, ripe tomato and sweet honey mustard on a toasted hero",
+    "price": 1195,
+    "img": "assets/img/menu/angel-eyes-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-ny-giants-sandwich",
+    "name": "NY Giants Sandwich",
+    "desc": "Sweet honey turkey and honey ham layered with swiss, crisp lettuce, fresh tomato and golden honey mustard",
+    "price": 1295,
+    "img": null
+   },
+   {
+    "id": "hot-sandwiches-bull-dog-sandwich",
+    "name": "Bull Dog Sandwich",
+    "desc": "Slow-roasted beef and peppery pastrami with melted pepper jack, crisp lettuce, fresh tomatoes and creamy mayo on a toasted hero",
+    "price": 1095,
+    "img": "assets/img/menu/bull-dog-sandwich.webp"
+   },
+   {
+    "id": "hot-sandwiches-cotton-club",
+    "name": "Cotton Club",
+    "desc": "Premium turkey with smoky crispy bacon, creamy avocado, crisp lettuce, fresh tomato and sweet honey mustard on a toasted hero",
+    "price": 1295,
+    "img": "assets/img/menu/cotton-club.webp"
+   }
+  ]
+ },
+ {
+  "slug": "steak",
+  "title": "Steak Sandwiches",
+  "items": [
+   {
+    "id": "steak-ny-steak-and-cheese-sandwich",
+    "name": "NY Steak and Cheese Sandwich",
+    "desc": "Tender marinated steak smothered in melted American cheese with sweet sauteed onions and peppers",
+    "price": 1295,
+    "img": "assets/img/menu/ny-steak-and-cheese-sandwich.webp"
+   },
+   {
+    "id": "steak-chicken-chipotle-philly-sandwich",
+    "name": "Chicken Chipotle Philly Sandwich",
+    "desc": "Juicy grilled chicken with melted pepper jack, sliced jalapenos, sauteed onions and peppers and smoky chipotle mayo",
+    "price": 1295,
+    "img": "assets/img/menu/chicken-chipotle-philly-sandwich.webp"
+   },
+   {
+    "id": "steak-chipotle-philly-sandwich",
+    "name": "Chipotle Philly Sandwich",
+    "desc": "Juicy marinated steak with melted pepper jack, sliced jalapenos, sauteed onions and peppers and bold chipotle mayo",
+    "price": 1295,
+    "img": "assets/img/menu/chipotle-philly-sandwich.webp"
+   },
+   {
+    "id": "steak-ny-reuben-philly-sandwich",
+    "name": "NY Reuben Philly Sandwich",
+    "desc": "Tender marinated steak with melted swiss, tangy sauerkraut, sauteed peppers and onions and creamy russian dressing",
+    "price": 1295,
+    "img": null
+   },
+   {
+    "id": "steak-italian-philly-sandwich",
+    "name": "Italian Philly Sandwich",
+    "desc": "Juicy marinated steak with melted mozzarella, sweet sauteed onions, colorful peppers and earthy mushrooms.",
+    "price": 1295,
+    "img": "assets/img/menu/italian-philly-sandwich.webp"
+   },
+   {
+    "id": "steak-cali-philly-sandwich",
+    "name": "Cali Philly Sandwich",
+    "desc": "Juicy marinated steak with melted swiss, sauteed peppers and onions and creamy avocado, West Coast meets Philly",
+    "price": 1295,
+    "img": "assets/img/menu/cali-philly-sandwich.webp"
+   },
+   {
+    "id": "steak-chicken-philly",
+    "name": "Chicken Philly",
+    "desc": "Juicy grilled chicken with melted American cheese, sauteed peppers and onions and creamy mayo on a toasted hero",
+    "price": 1295,
+    "img": "assets/img/menu/chicken-philly.webp"
+   }
+  ]
+ },
+ {
+  "slug": "subs",
+  "title": "Subs, Heroes and Cold Sandwiches",
+  "items": [
+   {
+    "id": "subs-build-your-own-sandwich",
+    "name": "Build Your Own Sandwich",
+    "desc": "Choose your bread, meats, cheeses, toppings and sauces and we'll build it fresh, a sandwich made exactly your way",
+    "price": 1095,
+    "img": null
+   },
+   {
+    "id": "subs-the-wolverine",
+    "name": "The Wolverine",
+    "desc": "Juicy grilled chicken, crispy bacon, creamy avocado and melted cheddar piled high with fresh lettuce, ripe tomato and fiery chipotle mayo",
+    "price": 1895,
+    "img": "assets/img/menu/the-wolverine.webp"
+   },
+   {
+    "id": "subs-the-green-lantern",
+    "name": "The Green Lantern",
+    "desc": "Golden crispy chicken cutlet layered with melted pepper jack, creamy avocado, fresh spinach, crisp lettuce, ripe tomato and sweet honey mustard",
+    "price": 1895,
+    "img": "assets/img/menu/the-green-lantern.webp"
+   },
+   {
+    "id": "subs-the-spiderman",
+    "name": "The Spiderman",
+    "desc": "Premium sliced ham and turkey layered with melted American cheese, crisp lettuce, fresh tomato and creamy mayo (COLD)",
+    "price": 1895,
+    "img": "assets/img/menu/the-spiderman.webp"
+   },
+   {
+    "id": "subs-the-green-arrow",
+    "name": "The Green Arrow",
+    "desc": "Herb-marinated pesto chicken with thick fresh mozzarella and sweet roasted peppers on a garlic-toasted hero drizzled with olive oil",
+    "price": 1895,
+    "img": "assets/img/menu/the-green-arrow.webp"
+   },
+   {
+    "id": "subs-the-flash",
+    "name": "The Flash",
+    "desc": "Char grilled chicken tossed in fiery buffalo sauce with melted pepper jack, sliced jalapenos, crisp lettuce, fresh tomatoes and cool ranch on a toasted hero",
+    "price": 1895,
+    "img": "assets/img/menu/the-flash.webp"
+   },
+   {
+    "id": "subs-the-thor",
+    "name": "The Thor",
+    "desc": "Golden crispy chicken cutlet loaded with mozzarella sticks, crispy onion rings and melted fresh mozzarella smothered in chipotle mayo and BBQ sauce on a toasted garlic hero",
+    "price": 1895,
+    "img": "assets/img/menu/the-thor.webp"
+   },
+   {
+    "id": "subs-the-hawkeye",
+    "name": "The Hawkeye",
+    "desc": "Slow-roasted beef, peppery pastrami and crispy bacon layered with thick fresh mozzarella, crisp lettuce, ripe tomato, creamy mayo and mustard",
+    "price": 1895,
+    "img": null
+   },
+   {
+    "id": "subs-the-black-panther",
+    "name": "The Black Panther",
+    "desc": "A powerhouse of ham, salami and pepperoni with melted provolone, crisp lettuce, ripe tomato, sweet roasted peppers and tangy Italian dressing",
+    "price": 1895,
+    "img": "assets/img/menu/the-black-panther.webp"
+   },
+   {
+    "id": "subs-the-superman",
+    "name": "The Superman",
+    "desc": "Slow-roasted beef and peppery pastrami stacked with crispy bacon, melted swiss, sweet caramelized onions, fresh lettuce, tomato and smoky chipotle mayo on a toasted hero",
+    "price": 1895,
+    "img": "assets/img/menu/the-superman.webp"
+   },
+   {
+    "id": "subs-italian-sandwich",
+    "name": "Italian Sandwich",
+    "desc": "Authentic Italian deli flavors, cappy ham, salami and pepperoni layered with melted provolone, sweet roasted peppers, crisp lettuce, ripe tomato and tangy oil and vinegar",
+    "price": 1295,
+    "img": "assets/img/menu/italian-sandwich.webp"
+   },
+   {
+    "id": "subs-ny-mets-sandwich",
+    "name": "NY Mets Sandwich",
+    "desc": "Creamy chicken salad with smoky bacon, melted provolone, sliced jalapenos, sweet roasted peppers, crisp lettuce and fresh tomato",
+    "price": 1295,
+    "img": null
+   },
+   {
+    "id": "subs-tuna-heaven-sandwich",
+    "name": "Tuna Heaven Sandwich",
+    "desc": "Creamy tuna with mild swiss, creamy avocado, crisp lettuce, ripe tomato, sweet roasted peppers and tangy balsamic vinaigrette on a fresh hero",
+    "price": 1295,
+    "img": null
+   },
+   {
+    "id": "subs-smokin-joe-sandwich",
+    "name": "Smokin Joe Sandwich",
+    "desc": "Rich smoked turkey with melted provolone, sweet roasted peppers, crisp lettuce, fresh tomato and golden honey mustard on a fresh hero",
+    "price": 1295,
+    "img": "assets/img/menu/smokin-joe-sandwich.webp"
+   },
+   {
+    "id": "subs-the-hulk-sandwich",
+    "name": "The Hulk Sandwich",
+    "desc": "A monster sandwich, ham, slow-roasted beef, bold pepper turkey and crispy bacon with melted pepper jack, crisp lettuce, fresh tomato and chipotle mayo",
+    "price": 1395,
+    "img": "assets/img/menu/the-hulk-sandwich.webp"
+   },
+   {
+    "id": "subs-chopheads-sandwich",
+    "name": "Chopheads Sandwich",
+    "desc": "Bold pepper turkey and pepperoni with thick fresh mozzarella, sweet roasted peppers, crisp lettuce, fresh tomato and tangy oil and vinegar",
+    "price": 1295,
+    "img": null
+   },
+   {
+    "id": "subs-portofino-sandwich",
+    "name": "Portofino Sandwich",
+    "desc": "Sweet honey turkey and honey ham layered with mild swiss and cheddar, sweet roasted peppers, crisp lettuce, fresh tomato and golden honey mustard",
+    "price": 1295,
+    "img": "assets/img/menu/portofino-sandwich.webp"
+   },
+   {
+    "id": "subs-american-sandwich",
+    "name": "American Sandwich",
+    "desc": "A classic combination of turkey, ham and slow-roasted beef with American cheese, crisp lettuce, fresh tomato and creamy mayo",
+    "price": 1295,
+    "img": "assets/img/menu/american-sandwich.webp"
+   },
+   {
+    "id": "subs-sweet-taste-sandwich",
+    "name": "Sweet Taste Sandwich",
+    "desc": "Delicate honey-glazed turkey with swiss, colorful sweet peppers, crisp lettuce, fresh tomato and golden honey mustard",
+    "price": 1295,
+    "img": "assets/img/menu/sweet-taste-sandwich.webp"
+   }
+  ]
+ },
+ {
+  "slug": "burgers",
+  "title": "Burgers",
+  "items": [
+   {
+    "id": "burgers-hamburger",
+    "name": "Hamburger",
+    "desc": "Classic juicy beef patty with crisp lettuce and fresh ripe tomato on a perfectly toasted sesame bun",
+    "price": 795,
+    "img": "assets/img/menu/hamburger.webp"
+   },
+   {
+    "id": "burgers-turkey-burger",
+    "name": "Turkey Burger",
+    "desc": "Juicy turkey patty with melted cheese, crisp lettuce and fresh tomato on a toasted sesame bun",
+    "price": 895,
+    "img": "assets/img/menu/turkey-burger.webp"
+   },
+   {
+    "id": "burgers-hamburger-wrap",
+    "name": "Hamburger Wrap",
+    "desc": "Well seasoned burger meat comes with crisp lettuce, ripe tomato in warm wrap of your choice.",
+    "price": 795,
+    "img": null
+   },
+   {
+    "id": "burgers-keto-burger",
+    "name": "Keto Burger",
+    "desc": "Two juicy beef patties with melted American cheese and smoky bacon wrapped in crisp fresh iceberg lettuce, all the burger, none of the carbs",
+    "price": 1395,
+    "img": "assets/img/menu/keto-burger.webp"
+   },
+   {
+    "id": "burgers-western-burger",
+    "name": "Western Burger",
+    "desc": "Juicy beef patty with melted sharp cheddar, smoky bacon crisp lettuce and fresh ripe tomato & BBQ sauce on a perfectly toasted sesame bun",
+    "price": 995,
+    "img": "assets/img/menu/western-burger.webp"
+   },
+   {
+    "id": "burgers-beyond-meat-burger",
+    "name": "Beyond Meat Burger",
+    "desc": "100% plant-based Beyond Meat patty, juicy and satisfying on a toasted golden sesame bun",
+    "price": 1195,
+    "img": "assets/img/menu/beyond-meat-burger.webp"
+   },
+   {
+    "id": "burgers-burger-in-lettuce-bun",
+    "name": "Burger in Lettuce Bun",
+    "desc": "Juicy beef burger patty wrapped in lettuce bun, served with lettuce & ripe tomato",
+    "price": 895,
+    "img": null
+   },
+   {
+    "id": "burgers-pizza-burger",
+    "name": "Pizza Burger",
+    "desc": "Juicy beef patty smothered in rich marinara sauce and melted mozzarella on a toasted sesame bun, pizza night meets burger night",
+    "price": 895,
+    "img": "assets/img/menu/pizza-burger.webp"
+   },
+   {
+    "id": "burgers-california-burger",
+    "name": "California Burger",
+    "desc": "Juicy beef patty with melted swiss, creamy avocado, crisp lettuce and fresh tomato on a toasted sesame bun, West Coast vibes, NYC execution",
+    "price": 1095,
+    "img": "assets/img/menu/california-burger.webp"
+   },
+   {
+    "id": "burgers-vegetable-burger",
+    "name": "Vegetable Burger",
+    "desc": "A hearty veggie patty with melted cheese on a perfectly toasted sesame bun",
+    "price": 795,
+    "img": "assets/img/menu/vegetable-burger.webp"
+   },
+   {
+    "id": "burgers-chipotle-bacon-burger",
+    "name": "Chipotle Bacon Burger",
+    "desc": "Juicy beef patty with smoky bacon, melted Monterrey jack and bold chipotle mayo on a toasted sesame bun, smoky, spicy, irresistible",
+    "price": 1095,
+    "img": null
+   },
+   {
+    "id": "burgers-ny-burger",
+    "name": "NY Burger",
+    "desc": "A New York classic, juicy beef patty with a golden sunny-side up egg, melted pepper jack, smoky turkey bacon, crisp lettuce and fresh tomato",
+    "price": 1195,
+    "img": null
+   },
+   {
+    "id": "burgers-fish-burger",
+    "name": "Fish Burger",
+    "desc": "Breaded fish, served with crispy lettuce, ripe tomatoes on a toasted burger bun.",
+    "price": 895,
+    "img": "assets/img/menu/fish-burger.webp"
+   }
+  ]
+ },
+ {
+  "slug": "halal",
+  "title": "Halal Plates and Gyros",
+  "items": [
+   {
+    "id": "halal-chicken-over-rice",
+    "name": "Chicken Over Rice",
+    "desc": "Tender juicy chicken pieces over fragrant seasoned rice with fresh salad and our signature white and red sauces",
+    "price": 1295,
+    "img": "assets/img/menu/chicken-over-rice.webp"
+   },
+   {
+    "id": "halal-lamb-over-rice",
+    "name": "Lamb Over Rice",
+    "desc": "Tender seasoned lamb over fragrant rice with fresh mixed vegetables, cucumbers, tomatoes and our signature white and red sauces",
+    "price": 1295,
+    "img": "assets/img/menu/lamb-over-rice.webp"
+   },
+   {
+    "id": "halal-combo-chicken-and-lamb-over-rice",
+    "name": "Combo Chicken and Lamb Over Rice",
+    "desc": "The best of both worlds, juicy chicken and tender lamb over fragrant seasoned rice with fresh vegetables and our signature white and red sauces",
+    "price": 1495,
+    "img": "assets/img/menu/combo-chicken-and-lamb-over-rice.webp"
+   },
+   {
+    "id": "halal-fresh-steak-over-rice",
+    "name": "Fresh Steak Over Rice",
+    "desc": "Juicy marinated steak over fragrant seasoned rice with fresh salad, colorful peppers, onions and our signature white and red sauces",
+    "price": 1495,
+    "img": "assets/img/menu/fresh-steak-over-rice.webp"
+   },
+   {
+    "id": "halal-fresh-chicken-gyro-sandwich",
+    "name": "Fresh Chicken Gyro Sandwich",
+    "desc": "Tender juicy grilled chicken with crisp fresh salad, colorful peppers, onions and our signature white and red sauces in warm pita",
+    "price": 1295,
+    "img": "assets/img/menu/fresh-chicken-gyro-sandwich.webp"
+   },
+   {
+    "id": "halal-falafel-over-rice",
+    "name": "Falafel Over Rice",
+    "desc": "Crispy golden falafel over fragrant seasoned rice with fresh salad, colorful peppers and our signature white and red sauces",
+    "price": 1295,
+    "img": "assets/img/menu/falafel-over-rice.webp"
+   },
+   {
+    "id": "halal-falafel-gyro",
+    "name": "Falafel Gyro",
+    "desc": "Crispy golden falafel with crisp lettuce, fresh tomato and our signature white sauce in a warm wrap",
+    "price": 1295,
+    "img": "assets/img/menu/falafel-gyro.webp"
+   },
+   {
+    "id": "halal-fresh-lamb-gyro-sandwich",
+    "name": "Fresh Lamb Gyro Sandwich",
+    "desc": "Tender seasoned lamb slices with crisp fresh salad, colorful peppers, onions and our signature white and red sauces in warm pita",
+    "price": 1295,
+    "img": "assets/img/menu/fresh-lamb-gyro-sandwich.webp"
+   }
+  ]
+ },
+ {
+  "slug": "salads",
+  "title": "Salads",
+  "items": [
+   {
+    "id": "salads-grilled-chicken-caesar-salad",
+    "name": "Grilled Chicken Caesar Salad",
+    "desc": "Crisp romaine tossed with juicy grilled chicken, golden croutons, shaved parmesan and our rich creamy caesar dressing",
+    "price": 1195,
+    "img": "assets/img/menu/grilled-chicken-caesar-salad.webp"
+   },
+   {
+    "id": "salads-cobb-salad",
+    "name": "Cobb Salad",
+    "desc": "Fresh romaine layered with melted pepper jack, ripe tomatoes, boiled eggs, golden croutons, smoky bacon and bold ancho-chipotle dressing",
+    "price": 1195,
+    "img": "assets/img/menu/cobb-salad.webp"
+   },
+   {
+    "id": "salads-greek-salad",
+    "name": "Greek Salad",
+    "desc": "Fresh mixed greens with generous crumbled feta, stuffed grape leaves, plump black olives, ripe tomatoes, purple red onions and tangy balsamic vinaigrette",
+    "price": 1195,
+    "img": "assets/img/menu/greek-salad.webp"
+   },
+   {
+    "id": "salads-summer-spring",
+    "name": "Summer Spring",
+    "desc": "Fresh mixed greens with crumbled feta, thinly sliced red onion, vibrant strawberries, plump blueberries, crunchy walnuts and sweet raspberry vinaigrette",
+    "price": 1195,
+    "img": "assets/img/menu/summer-spring.webp"
+   },
+   {
+    "id": "salads-grilled-chicken-garden-salad",
+    "name": "Grilled Chicken Garden Salad",
+    "desc": "Fresh crisp romaine topped with juicy grilled chicken, crunchy cucumbers, colorful green peppers, ripe tomatoes, sweet carrots and onions",
+    "price": 1195,
+    "img": "assets/img/menu/grilled-chicken-garden-salad.webp"
+   },
+   {
+    "id": "salads-chipotle-salad",
+    "name": "Chipotle Salad",
+    "desc": "Crisp romaine with golden crispy chicken, melted pepper jack, sliced jalapenos, creamy avocado, onions, beans and bold ancho-chipotle dressing",
+    "price": 1195,
+    "img": "assets/img/menu/chipotle-salad.webp"
+   },
+   {
+    "id": "salads-chef-salad",
+    "name": "Chef Salad",
+    "desc": "Fresh mixed greens piled high with premium turkey, slow-roasted beef, ham, swiss cheese, ripe tomato and a perfectly boiled egg",
+    "price": 1295,
+    "img": "assets/img/menu/chef-salad.webp"
+   },
+   {
+    "id": "salads-build-your-own-large-salad",
+    "name": "Build Your Own Large Salad",
+    "desc": "Choice of 4 vegetables and 2 protein toppings. Choice of salad greens and dressing. Add protein, cheese, vegetable topping, nuts and more for an additional charge.",
+    "price": 1295,
+    "img": null
+   },
+   {
+    "id": "salads-build-your-own-small-salad",
+    "name": "Build Your Own Small Salad",
+    "desc": "Choice of 3 vegetables and 1 protein toppings. Choice of salad greens and dressing. Add protein, cheese, vegetable topping, nuts and more for an additional charge.",
+    "price": 1095,
+    "img": null
+   }
+  ]
+ },
+ {
+  "slug": "juices",
+  "title": "Fresh Juices and Smoothies",
+  "items": [
+   {
+    "id": "juices-the-blast-smoothie",
+    "name": "The Blast Smoothie",
+    "desc": "Strawberry, banana and peanut butter blended with nutella, vanilla protein and oat milk, rich and indulgent",
+    "price": 895,
+    "img": "assets/img/menu/the-blast-smoothie.webp"
+   },
+   {
+    "id": "juices-create-your-own-smoothie",
+    "name": "Create Your Own Smoothie",
+    "desc": "Build it your own style! Made with 100% real fruit.",
+    "price": 795,
+    "img": null
+   },
+   {
+    "id": "juices-mr-incredible-smoothie",
+    "name": "Mr. Incredible Smoothie",
+    "desc": "Banana, strawberry and peanut butter blended with honey and almond milk, sweet and satisfying",
+    "price": 895,
+    "img": "assets/img/menu/mr-incredible-smoothie.webp"
+   },
+   {
+    "id": "juices-mr-berry-smoothie",
+    "name": "Mr. Berry Smoothie",
+    "desc": "Banana, blueberry and strawberry blended with watermelon juice, a refreshing fruity classic",
+    "price": 895,
+    "img": "assets/img/menu/mr-berry-smoothie.webp"
+   },
+   {
+    "id": "juices-create-your-own-fresh-squeeze-juice",
+    "name": "Create Your Own Fresh Squeeze Juice",
+    "desc": "All fresh fruits and vegetables. Made with 100% real fruit.",
+    "price": 795,
+    "img": null
+   },
+   {
+    "id": "juices-summerslam-smoothie",
+    "name": "Summerslam Smoothie",
+    "desc": "Banana, blueberry, peanut butter and protein blended with almond milk, a hearty, energizing smoothie",
+    "price": 895,
+    "img": "assets/img/menu/summerslam-smoothie.webp"
+   },
+   {
+    "id": "juices-me-jose-smoothie",
+    "name": "Me Jose Smoothie",
+    "desc": "Banana and peanut butter blended with chocolate protein, nutella and almond milk, rich and chocolatey",
+    "price": 895,
+    "img": "assets/img/menu/me-jose-smoothie.webp"
+   },
+   {
+    "id": "juices-peaches-and-beach-smoothie",
+    "name": "Peaches and Beach Smoothie",
+    "desc": "Sweet peaches and mango blended with fresh fruit juice for a tropical getaway in a glass",
+    "price": 895,
+    "img": "assets/img/menu/peaches-and-beach-smoothie.webp"
+   },
+   {
+    "id": "juices-sunrise-juice",
+    "name": "Sunrise Juice",
+    "desc": "Sweet pineapple, orange and carrot pressed together for a tropical morning boost",
+    "price": 895,
+    "img": null
+   },
+   {
+    "id": "juices-hangover-juice",
+    "name": "Hangover Juice",
+    "desc": "Apple, lemon, carrot and beets pressed with ginger, a revitalizing blend to bounce back",
+    "price": 895,
+    "img": "assets/img/menu/hangover-juice.webp"
+   },
+   {
+    "id": "juices-ny-grill-healthy-smoothie",
+    "name": "Ny Grill Healthy Smoothie",
+    "desc": "Strawberry, banana and peanut butter blended with creamy avocado and almond milk, clean and wholesome",
+    "price": 895,
+    "img": "assets/img/menu/ny-grill-healthy-smoothie.webp"
+   },
+   {
+    "id": "juices-celery-juice",
+    "name": "Celery Juice",
+    "desc": "Pure fresh-pressed celery juice, clean, simple and refreshing",
+    "price": 895,
+    "img": "assets/img/menu/celery-juice.webp"
+   },
+   {
+    "id": "juices-hulk-juice",
+    "name": "Hulk Juice",
+    "desc": "Kale, apple, cucumber and spinach pressed into a bold, vibrant green juice",
+    "price": 895,
+    "img": "assets/img/menu/hulk-juice.webp"
+   },
+   {
+    "id": "juices-kale-shopper",
+    "name": "Kale Shopper",
+    "desc": "Kale, pineapple, spinach and banana blended with coconut milk, a tropical green smoothie",
+    "price": 895,
+    "img": "assets/img/menu/kale-shopper.webp"
+   },
+   {
+    "id": "juices-villager-juice",
+    "name": "Villager Juice",
+    "desc": "Crisp apple, fresh lemon and a kick of ginger pressed with orange, bright, zesty and refreshing",
+    "price": 895,
+    "img": "assets/img/menu/villager-juice.webp"
+   },
+   {
+    "id": "juices-head-relief-juice",
+    "name": "Head Relief Juice",
+    "desc": "Carrot, apple, spinach and kale pressed with fresh ginger, a vibrant green pick-me-up",
+    "price": 895,
+    "img": "assets/img/menu/head-relief-juice.webp"
+   },
+   {
+    "id": "juices-sunshine-juice",
+    "name": "Sunshine Juice",
+    "desc": "Sweet orange, carrot and apple pressed together for a bright, sunny morning glass",
+    "price": 895,
+    "img": "assets/img/menu/sunshine-juice.webp"
+   },
+   {
+    "id": "juices-popeye-juice",
+    "name": "Popeye Juice",
+    "desc": "Kale, spinach, carrot and cucumber pressed together for a clean, vibrant green juice",
+    "price": 895,
+    "img": "assets/img/menu/popeye-juice.webp"
+   },
+   {
+    "id": "juices-detox-juice",
+    "name": "Detox Juice",
+    "desc": "Earthy beets, celery and carrots pressed with fresh ginger, deep, cleansing and bold",
+    "price": 895,
+    "img": "assets/img/menu/detox-juice.webp"
+   },
+   {
+    "id": "juices-fresh-ginger-shot-4-oz",
+    "name": "Fresh Ginger Shot (4 oz)",
+    "desc": "Freshly squeezed ginger juice in a 4 oz serving.",
+    "price": 695,
+    "img": null
+   },
+   {
+    "id": "juices-aloha-smoothie",
+    "name": "Aloha Smoothie",
+    "desc": "Banana, strawberry and blueberry blended with peanut butter and apple juice for a tropical fruity treat",
+    "price": 895,
+    "img": "assets/img/menu/aloha-smoothie.webp"
+   }
+  ]
+ }
+]
